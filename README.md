@@ -3,7 +3,7 @@ ID:CT12DS408
 COMPANY:CODTECH IT SOLUTIONS 
 DOMAIN:Python Programming
 DURATION:JUNE TO JULY 
-MONITOR:Nelam Harish
+MENTOR:Nelam Harish
 
 
 
@@ -70,5 +70,9 @@ The fourth row contains one label: 4.
 The fifth row contains one label: 3.
 The sixth row has no labels.
 The code also creates a grid with six rows and six columns that displays the grades for the subject credits in alphabetical order.
+
+OUTPUT:
+![task2](https://github.com/user-attachments/assets/1a699ebe-9cdd-48f2-8cb9-ac335953eba3)
+
 
  
